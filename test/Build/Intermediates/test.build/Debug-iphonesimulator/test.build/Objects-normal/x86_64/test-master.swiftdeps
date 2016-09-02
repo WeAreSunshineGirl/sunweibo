@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "cc15e0cc31fb10b947937b2b340ec2db"
+build_time: [526121690, 394029000]
+inputs:
+  "/Users/user/sweibo/test/test/ViewController.swift": !dirty [526121432, 0]
+  "/Users/user/sweibo/test/test/AppDelegate.swift": !dirty [526121204, 0]
